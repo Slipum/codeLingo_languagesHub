@@ -4,17 +4,17 @@ Each project is stored in a separate branch corresponding to a specific programm
 
 List of Projects:
 
-- [Python: Temperature Converter](/tree/python_project)
-- [JavaScript: To-Do List](/tree/javascript_project)
-- [Java: Library Book Management System](/tree/java_project)
-- [C#: Daily Planner App](/tree/csharp_project)
-- [Ruby: Random Password Generator](/tree/ruby_project)
-- [C++: Console-based Battleship Game](/tree/cpp_project)
-- [PHP: Feedback Form](/tree/php_project)
-- [Go: URL Shortener](/tree/go_project)
-- [Swift: Calorie Calculator](/tree/swift_project)
-- [Kotlin: Weather App](/tree/kotlin_project)
-- [TypeScript: Memory Card Game](/tree/typescript_project)
-- [Rust: Simple HTTP Server](/tree/rust_project)
+- [Python: Temperature Converter](https://github.com/Slipum/codeLingo_languagesHub/tree/python_project)
+- [JavaScript: To-Do List](https://github.com/Slipum/codeLingo_languagesHub/tree/javascript_project)
+- [Java: Library Book Management System](https://github.com/Slipum/codeLingo_languagesHub/tree/java_project)
+- [C#: Daily Planner App](https://github.com/Slipum/codeLingo_languagesHub/tree/csharp_project)
+- [Ruby: Random Password Generator](https://github.com/Slipum/codeLingo_languagesHub/tree/ruby_project)
+- [C++: Console-based Battleship Game](https://github.com/Slipum/codeLingo_languagesHub/tree/cpp_project)
+- [PHP: Feedback Form](https://github.com/Slipum/codeLingo_languagesHub/tree/php_project)
+- [Go: URL Shortener](https://github.com/Slipum/codeLingo_languagesHub/tree/go_project)
+- [Swift: Calorie Calculator](https://github.com/Slipum/codeLingo_languagesHub/tree/swift_project)
+- [Kotlin: Weather App](https://github.com/Slipum/codeLingo_languagesHub/tree/kotlin_project)
+- [TypeScript: Memory Card Game](https://github.com/Slipum/codeLingo_languagesHub/tree/typescript_project)
+- [Rust: Simple HTTP Server](https://github.com/Slipum/codeLingo_languagesHub/tree/rust_project)
 
 Select your programming language and embark on your coding adventures!
